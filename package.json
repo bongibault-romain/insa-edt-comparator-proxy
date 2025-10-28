@@ -9,5 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongibault-romain/insa-edt-comparator-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bongibault-romain/insa-edt-comparator-proxy/issues"
+  },
+  "homepage": "https://github.com/bongibault-romain/insa-edt-comparator-proxy#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
 }
